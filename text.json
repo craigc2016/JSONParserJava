@@ -1,0 +1,398 @@
+{
+  "Dublin":[
+    {
+      "Synopsis": "Dublin but what you may not know is that Dublin is a perfect destination for the whole family.take them to the Dublin Zoo, to feed the ducks in Stephen's Green or on a picnic in Phoenix Park. Scholars enjoy walking in the literary footsteps of such writers as Yeats and Joyce. ",
+      "Hotels" : "Merrion ClontarfCastle HolidayInn TheWestbury",
+      "Restaurants" : "DaxRestaurant MulberryGarden Pickle FXBuckleySteakhouse",
+      "Places" : "DublinCastle PhoenixPark GPO GuinnessStorehouse",
+      "Things" : "CrokeParkStadiumTour&GAAMuseum KilmainhamJail GlasnevinCemeteryMuseum DublinFreeWalkingTour"
+    }
+  ],
+
+  "DublinHotels":[
+    {
+      "Name": "Merrion",
+      "Description": "The Merrion, created from four Georgian townhouses, is located in the city centre opposite government buildings. Many of the 142 bedrooms and suites overlook period landscaped gardens",
+      "Location": "Upper Merrion Street, Dublin 2, Ireland"
+    },
+    {
+      "Name": "Clontarf Castle",
+      "Description": "Celebrate, chill out, or relish in a little of both. Clontarf Castle Hotel in Dublin, Ireland is a perfect blend of a boutique and luxury hotel.Located just 10 minutes from the heart of Dublin City Centre and 5 miles from Dublin Airport",
+      "Location": "Castle Avenue | Clontarf, Dublin D3, Ireland"
+    },
+    {
+      "Name": "HolidayInn",
+      "Description": "Right on O Connell Street in the heart of Dublin, the Holiday Inn Express® Dublin City Centre hotel offers an all-day cafe/bar, meeting rooms, free Wi-Fi & breakfast included.Dublin Airport (DUB) is 20 minutes' drive away, with a shuttle stop right outside",
+      "Location": "28-32 Upper O Connell Street Upper, Dublin D01T2X2, Ireland"
+    },
+    {
+      "Name": "TheWestbury",
+      "Description": "One of The Leading Hotels of the World and rejuvenated by a multi-million euro refurbishment, The Westbury is an urban retreat with Dublin city on its doorstep. Located just off Grafton Street, in the heart of Dublin, this stylish 5-star hotel.",
+      "Location": "Balfe Street, Dublin, Ireland"
+
+    }
+  ],
+
+  "DublinRestaurants":[
+
+    {
+      "Name": "DaxRestaurant",
+      "Description": "South City Centre French, European, Contemporary, Healthy, Vegetarian Friendly, Gluten Free Options. Awarded Best Restaurant in Dublin in the Irish Restaurant Awards 2014. Located just off Fitzwilliam Square in the heart of Georgian Dublin, the award winning",
+      "Location" : "23 Pembroke Street Upper Dublin 2 Ireland"
+    },
+    {
+      "Name": "MulberryGarden",
+      "Description": "Irish, European, Contemporary, Gluten Free Options. Modern Irish restaurant showcasing the best of Irish produce. Hidden away in the heart of Dublin 4. Unusually only open Thursday-Saturday inclusive from 6pm",
+      "Location": "Mulberry Lane  Donnybrook, Dublin 04 Ireland"
+    },
+    {
+      "Name": "Pickle",
+      "Description": "Indian, Asian, Vegetarian Friendly, Vegan Options, Gluten Free Options. One of the most popular spots in Dublin for Indian and Asian food",
+      "Location": "43 Camden Street, Dublin, Ireland"
+    },
+    {
+      "Name": "FXBuckleySteakhouse",
+      "Description": "Serving Ireland's best steak in Temple Bar, a traditional Irish steakhouse with the experience and knowledge of over 25 years serving the perfect steak",
+      "Location": " 2 Crow Street  Temple Bar, Dublin DO2 Ireland"
+    }
+
+  ],
+
+  "DublinPlaces":[
+    {
+      "Name": "DublinCastle",
+      "Description": "Dublin Castle was for 700 years the seat of British power in Ireland. Today you can still view the remains of the 13th century structure as part of the guided tour",
+      "Location": "Address: Dame Street, Dublin 2, Ireland"
+    },
+    {
+      "Name": "PhoenixPark",
+      "Description": "Beautiful urban park lined with running trails. Biggest Park Dublin",
+      "Location": "Parkgate St. Conyngham Road, Dublin 8, Ireland"
+    },
+    {
+      "Name": "GPO",
+      "Description": "GPO Witness History is a brand new permanent visitor attraction located in the historical and iconic GPO building on O'Connell Street, Dublin. This highly interactive and spectacular visitor attraction focuses on the 1916 rising, the aftermath of this rebellion and also how Ireland has developed since",
+      "Location": "OConnell St Lower, Dublin D01 F5P2, Ireland"
+    },
+    {
+      "Name": "GuinnessStorehouse",
+      "Description": "Take advantage of skip-the-line entry privileges to Dublin's popular Guinness Storehouse. This Signature Package allows you to breeze past the crowds and explore the storehouse and museum at your own pace. ",
+      "Location": " St James's Gate, Ushers, Dublin 8"
+    }
+  ],
+  "DublinThings":[
+    {
+      "Name": "CrokeParkStadiumTour&GAAMuseum",
+      "Description":"A stadium tour of Croke Park will take you through Irelands history as experienced by the countrys largest sporting organisation. Croke Park stadium Europes 4th largest, is one of the most historic and modern sporting arenas in the world.",
+      "Location":"St Josephs Avenue (Off Clonliffe Rd) | Drumcondra, Dublin cod3, Ireland"
+    },
+    {
+      "Name": "KilmainhamJail",
+      "Description": "This bleak old jail was notorious in the 19th century for its harsh treatment of prisoners.Where a lot of the 1916 rising prisoners where housed and executed by English soldiers.",
+      "Location": "Inchicore Road | Kilmainham, Dublin 8, Ireland"
+    },
+    {
+      "Name":"GlasnevinCemeteryMuseum",
+      "Description":"Glasnevin Cemetery and Museum are both the guardians and storytellers for over 1.5 million people. From the ordinary to the truly extraordinary, these people helped shape the Ireland of today",
+      "Location":"Finglas Road, Dublin 11, Ireland"
+    },
+    {
+      "Name": "DublinFreeWalkingTour",
+      "Description": "We love Dublin! Join us at at the Spire (the big needle!) at 11am and 3pm every day for the Free Walking Tour. We will give you the best possible introduction to this beautiful, fascinating old city.",
+      "Location": "O' Connell Street | The Spire, Dublin, Ireland"
+    }
+  ],
+
+  "Kildare":[
+    {
+      "Synopsis": "Kildare is the 24th largest of Ireland's 32 counties in area and seventh largest in terms of population. It is the eighth largest of Leinster's twelve counties in size, and second largest in terms of population. It is bordered by the counties of Carlow, Laois, Meath, Offaly, Dublin and Wicklow.",
+      "Hotels" : "KildareHouse LordEdward TheCurraghCountryHouse CloncarlinHouse",
+      "Restaurants" : "HartesOfKildare SitaarayIndianRestaurant IlPonteNuovo TheHangedMan",
+      "Places" : "SaintBrigid'sCathedralandRoundTower KildareVillage TheCurraghRacecourse KildareTownHeritageCentre&TouristOffice",
+      "Things" : "IrishNationalStud&Gardens WallabyWoodsDonadea AceCasino HighfieldGolfandCountryClub"
+
+    }
+  ],
+  "KildareHotels":[
+    {
+      "Name": "KildareHouse",
+      "Description": "Newly renovated 21 bedroom hotel in the heart of Kildare town and only thirty minutes from Dublin, the Kildare House Hotel has the welcoming ambiance of a Country House Hotel with the advantage of being perfectly located in the heart of Kildare town.",
+      "Location": " Dublin Road, Kildare, Ireland"
+    },
+    {
+      "Name":"LordEdward",
+      "Description": "Lord Edward accommodation was built in the mid-eighteenth century. Formely known as the Leinster Lodge, this historic house has been reinvented into 20 en-suite bedrooms.The Lord Edward accommodation is located beside a Norman castle in Kildare Town."
+      "Location": " The Square | Silken Thomas complex, Kildare, Ireland"
+    },
+    {
+      "Name": "TheCurraghCountryHouse",
+      "Description":"Within a 7-minute drive of The Curragh Racecourse and Golf Club, The Curragh hotel provides well-appointed rooms and a wide choice of breakfast. This luxury hotel in County Kildare is around 50 km south-west of Dublin and has free parking and Wi-Fi",
+      "Location": "Ballysax Hills, Kildare, Ireland"
+    },
+    {
+      "Name": "CloncarlinHouse",
+      "Description":"The McGuinness family invite you to spend some time with them in their spacious 18th century period hotel. It is based on a 180 acre beef farm. Situated on elevated site it affords a superb view of the local countryside",
+      "Location": "Nurney Road | Monasterevin, Kildare, Ireland"
+    }
+  ],
+  "KildareRestaurants":[
+    {
+      "Name": "HartesOfKildare",
+      "Description": " Irish, Bar, European, Pub, Gastropub, Gluten Free Options, Vegetarian Friendly, Vegan Options. We source our food and drinks carefully, providing high quality, fresh and sustainable products whenever possible. Our staff strive for excellence in the creation, preparation and service of our meals.",
+      "Location": "Market Square | Kildare Town, Kildare, Ireland"
+    },
+    {
+      "Name":"SitaarayIndianRestaurant",
+      "Description": "Indian, Asian, Balti, Eastern European. Delivery, Takeout, Reservations, Seating, Waitstaff, Serves Alcohol, Highchairs Available.Groups, Cheap Eats, Child-friendly.",
+      "Location": "Market Square, Kildare, Ireland"
+    },
+    {
+      "Name":"IlPonteNuovo",
+      "Description": "Italian, Pizza, Mediterranean, European, Gluten Free Options Dinner, Lunch.Reservations, Seating, Waitstaff, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Takeout.Cheap Eats, Kids, Child-friendly, Groups, Special Occasion Dining.",
+      "Location": "George's Street, Newbridge, Ireland"
+    },
+    {
+      "Name": "TheHangedMan",
+      "Description": " Irish, European, Pub, Gluten Free Options  Dinner, Lunch. Reservations, Seating, Waitstaff, Parking Available, Serves Alcohol, Full Bar, Wheelchair Accessible.  Child-friendly, Groups, Romantic, Special Occasion Dining. ",
+      "Location": "Milltown, Newbridge | County Kildare, Kildare County "
+    }
+  ],
+  "KildarePlaces":[
+    {
+      "Name":"SaintBrigid'sCathedralandRoundTower",
+      "Description":"The cathedral is very interesting and very well maintained both inside and outside. It's well worth a visit. The tower has a fantastic view from the top.Beautiful scenery all around. Cathedral is quite amazing. Worth a visit whether local or a tourist.",
+      "Location": "Kildare, Ireland"
+    },
+    {
+      "Name":"KildareVillage",
+      "Description": "In the heart of Ireland's horse-racing country lies Kildare Village, home to over more than 80 stylish luxury boutiques and it captures the charm and scale of the region's stud farms.",
+      "Location": "Nurney Rd, Kildare, Ireland"
+    },
+    {
+      "Name": "TheCurraghRacecourse",
+      "Description":"The Curragh Racecourse, usually referred to as simply The Curragh, is Ireland's most important Thoroughbred racecourse. It is situated on the Curragh plain in County Kildare, between the towns of Newbridge and Kildare.",
+      "Location": "	Newbridge, County Kildare, Ireland"
+    },
+    {
+      "Name": "KildareTownHeritageCentre&TouristOffice",
+      "Description": "Located in the restored Market House opposite St Brigids Cathedral in the medieval Town of Kildare. The Centre hosts a multimedia display that tells the story of this Historic Town. ",
+      "Location": "Market Square, Kildare, Ireland"
+    }
+  ],
+  "KildareThings":[
+    {
+      "Name": "IrishNationalStud&Gardens",
+      "Description":"This state-owned commercial stud farm also incorporates the world famous Japanese Gardens and wild Irish St Fiachra's Garden as well as the Irish Horse Museum.",
+      "Location": "Tully, Kildare, Ireland"
+    },
+    {
+      "Name": "WallabyWoodsDonadea",
+      "Description": "Wallaby Woods offers a great day out for explorers of all ages. Our nature trails and woodland walks are a great interactive nature and animal experience. There are lots of very exciting animals to find on our trails.",
+      "Location": "Naas, Donadea, Kildare, Ireland"
+    },
+    {
+      "Name": "AceCasino",
+      "Description": "Roulette, Slots and Poker. Free admission. Over 21's. Free snacks and drinks. Free secure parking at rear. Open 11 till late, 7 days a week.",
+      "Location": "Curragh Road | Kildare Town, Kildare, Ireland"
+    },
+    {
+      "Name":"HighfieldGolfandCountryClub",
+      "Description": "Located only 30 minutes from Dublin, Mullingar and Navan, Highfield Golf and Country Club, Kildare, is the perfect choice for golfers looking for an easily accessible and affordable 18 hole Parkland Golf Course.",
+      "Location": " Carbury, Kildare 0000, Ireland"
+    }
+  ],
+  "Cork":[
+    {
+      "Synopsis": "Ireland's third- largest city began life as an island and now spans both banks of the River Lee, with watery channels running beneath some of its main thoroughfares.",
+      "Hotels" : "TheRiverLee CorkAirportHotel MaryboroughHotel&Spa JurysInn",
+      "Restaurants" : "GreenesRestaurant StrasbourgGoose HaveliIndianRestaurant CafeMexicana",
+      "Places" : "FitzgeraldPark CorkCityGaol StFinBarre'sCathedral ElizabethFort",
+      "Things" : "FotaWildlifePark CrawfordMunicipalArtGallery LeeValleyGolf&CountryClub WalkingToursCork"
+    }
+  ],
+  "CorkHotels":[
+    {
+      "Name": "TheRiverLee",
+      "Description": "The River Lee is the perfect vantage point in the historic quarter and from which to savour all that the city has to offer. The hotel is a superb four-star hotel with a range of facilities and amenities that are second to none. From our superb NRG fitness centre and magnificent Vanilla Browns Spa",
+      "Location": " Western Road, Cork, Ireland"
+    },
+    {
+      "Name": "CorkAirportHotel",
+      "Description": "Located at Cork International Airport, we make travel easy for both business and leisure travelers. Experience the convenience of our 24-hr courtesy shuttle that connects the hotel to the Airport. Enjoy free high-speed Wifi in our 80 modern bedrooms.",
+      "Location": "Cork Airport, Cork T12 RPP9, Ireland"
+    },
+    {
+      "Name": "MaryboroughHotel&Spa",
+      "Description": "Located in the leafy suburbs of Douglas, yet minutes from Cork City centre, The Maryborough has a character and style all its own. The hotel delivers a unique experience in an exceptional atmosphere. From the moment you enter, we will guarantee you a level of personal service.",
+      "Location": "Maryborough Hill | Douglas, Cork, Ireland"
+    },
+    {
+      "Name": "JurysInn",
+      "Description": "Jurys Inn Cork hotel is ideally located to explore all Cork has to offer - it's under 10 minutes walk from Cork train station, Cork Opera House, two shopping centres (Merchant's Quay & Paul Street Shopping) and a Leisureplex.",
+      "Location": "Anderson's Quay, Cork, Ireland"
+    }
+  ],
+  "CorkRestaurants":[
+    {
+      "Name": "GreenesRestaurant",
+      "Description":"Greenes Restaurant, Awarded Best Chef in Cork 2015, is located in a beautiful courtyard within 5 minutes' walk of Patrick Street, Cork.Local ingredients, the finest seafood and meat available in Cork, we only offer what's in season, often organic but always artisan prepared.",
+      "Location": "48 Maccurtain Street, Cork, Ireland"
+    },
+    {
+      "Name": "StrasbourgGoose",
+      "Description":"Steakhouse, European, Gluten Free Options, Vegetarian Friendly  Brunch, Lunch, Dinner. Outdoor Seating, Reservations, Seating, Waitstaff, Wheelchair Accessible, Serves Alcohol, Accepts Mastercard, Accepts Visa, Digital Payments, Accepts Discover.",
+      "Location": "17-18 French Church Street, Cork, Ireland"
+    },
+    {
+      "Name": "HaveliIndianRestaurant",
+      "Description":"Indian, Asian, Vegetarian Friendly, Vegan Options, Gluten Free Options dinner. Takeout, Seating, Waitstaff, Highchairs Available, Accepts Mastercard, Accepts Visa, Delivery, Reservations, Street Parking, Wheelchair Accessible, Serves Alcohol.",
+      "Location": " Morris House | Douglas West, Douglas, Cork, Ireland"
+    },
+    {
+      "Name": "CafeMexicana",
+      "Description":" Mexican, Gluten Free Options  Brunch, Lunch, Dinner, After-hours. Takeout, Seating, Waitstaff, Highchairs Available, Serves Alcohol. Special Occasion Dining, Cheap Eats, Groups, Romantic, Child-friendly.",
+      "Location": "Carey's Lane, Cork, Ireland"
+    }
+  ],
+  "CorkPlaces":[
+    {
+      "Name": "FitzgeraldPark",
+      "Description": "A must see beautiful maintained park in the heart of the city Located in the mardyke area the park is a must visit for a picnic and just to watch the swans and birds that visit There is a lovely relaxing restaurant in the park and during some summer months there is music in the band stand.",
+      "Location": "Mardyke Walk, Cork, Ireland"
+    },
+    {
+      "Name": "CorkCityGaol",
+      "Description": "Corks Most Captivating Experience:A step back in time to see what 19th/early 20th century life was like-inside and outside prison walls.Historical experience brought to life with amazingly lifelike figures.",
+      "Location": " Convent Avenue | Sunday's Well, Cork, Ireland"
+    },
+    {
+      "Name": "StFinBarre'sCathedral",
+      "Description": "A stately 19th-century cathedral dedicated to the patron saint of Cork.",
+      "Location": " Dean St, Cork, Ireland"
+    },
+    {
+      "Name": "ElizabethFort",
+      "Description": "Elizabeth Fort is an early Seventeenth-century star-shaped fort in Cork City. This fort is steeped in history and the walls of the fort offer a fantastic view of the city below.",
+      "Location": "Barrack Street, Cork, Ireland"
+    }
+  ],
+  "CorkThings":[
+    {
+      "Name": "FotaWildlifePark",
+      "Description": "Fota Wildlife Park is Cork's most visited Tourist Attraction and has been awarded best family day out in Cork and Munster. The Park is set on 70 acres on the scenic Fota Island in the heart of Cork Harbour only 15 minutes from Cork City.",
+      "Location": " Fota Island, Cork, Ireland"
+    },
+    {
+      "Name": "CrawfordMunicipalArtGallery",
+      "Description": "This renowned art gallery displays works by both prominent Irish artists and local painters.",
+      "Location": "Crawford Art Gallery Emmett Place, Cork, Ireland."
+    },
+    {
+      "Name": "LeeValleyGolf&CountryClub",
+      "Description": "Lee Valley Golf & Country Club, situated just 15 minutes outside Cork City Centre but yet in the heart of paradise. Voted in the top 100 Irish Golf Courses for 4 years.",
+      "Location": "Clashnure, Cork, Ireland"
+    },
+    {
+      "Name": " WalkingToursCork",
+      "Description": "Walking Tours Cork offers guided fun walking tours of Cork for individuals, families, groups and corporate events through the streets and parks of Cork City.",
+      "Location": " Cork, Ireland"
+    }
+  ],
+  "Galway": [
+    {
+      "Synopsis": "The City of Tribes provides a fun blast of the Ireland many first-time visitors expect. The compact city centre, with its winding streets, packed pubs and air of celebration, is easily walked - or pubcrawled",
+      "Hotels" : "HarbourHotelGalway JurysInnGalway MaldronHotelGalway RadissonBluHotel&SpaGalway",
+      "Restaurants" : "TheQuayStreetKitchen OranTandoori TheChiliShack DaPaulino'sRistoranteItaliano",
+      "Places" : "GalwayCathedral QuayStreet NationalUniversityofIreland-Galway TheSpanishArch",
+      "Things" : "WildAtlanticWayDayTours ConnemaraPubTours CorribPrincessRiverCruise SegwayAdventureToursofGalway"
+    }
+  ],
+  "GalwayHotels":[
+    {
+      "Name": "HarbourHotelGalway",
+      "Description": "The Harbour Hotel Galway, is centrally located in the heart of Galway City - just a 3 minute walk to Eyre Square, Shop St. & Quay St. A family owned hotel, the focus is on customer service. Guests return to the Harbour Hotel, time and time again.",
+      "Location": "17 New Road | The Harbour, Galway, Ireland"
+    },
+    {
+      "Name": "JurysInnGalway",
+      "Description": "Jurys Inn Galway is ideally located in the heart of the city on Quay Street with a host of bars and restaurants on its doorstep. Overlooking the historic Spanish Arch and Galway Bay, Jurys Inn Galway is within short walking distance of the city's commercial and shopping districts.",
+      "Location": " Quay Street, Galway, Ireland"
+    },
+    {
+      "Name": " MaldronHotelGalway",
+      "Description": "Excellently located on the N6, just 10 minutes drive from Galway City. Modern Superior 3 Star hotel with Superb Leisure Club... 20 m Pool, Gym, Therapy Suite etc. 113 spacious bedrooms crisp white duvets.",
+      "Location": "on N6, beside 2nd Roundabout, Oranmore, Galway, Ireland"
+    },
+    {
+      "Name": "RadissonBluHotel&SpaGalway",
+      "Description": "ou are guaranteed the best of all worlds when you stay at the luxurious four star Radisson Blu Hotel & Spa Galway. Scenic Galway Bay views, luxury city centre hotel accommodation, excellent food, world class spirit one spa & leisure facilities.",
+      "Location": " Lough Atalia Rd, Galway, Ireland "
+    }
+  ],
+  "GalwayRestaurants":[
+    {
+      "Name": "TheQuayStreetKitchen",
+      "Description": " Irish, European, Soups, Vegetarian Friendly, Gluten Free Options Brunch, Lunch, Dinner. Outdoor Seating, Seating, Waitstaff, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Wine and Beer, Accepts Mastercard, Accepts Visa, Free Wifi.",
+      "Location": "Quay Street, Galway, Ireland"
+    },
+    {
+      "Name": "OranTandoori",
+      "Description": "Indian, Asian, Balti, Gluten Free Options, Vegetarian Friendly  Lunch, Dinner. Buffet, Seating, Waitstaff, Street Parking, Free Off-Street Parking, Highchairs Available, Serves Alcohol, Wine and Beer, Accepts Mastercard, Accepts Visa, Free Wifi, Delivery, Takeout. ",
+      "Location": "Unit 2 Howley Court | Unit 2, Howley Court, Oranmore, Galway 0091, Ireland"
+    },
+    {
+      "Name": "TheChiliShack",
+      "Description": " Mexican, American, Southwestern, Fast food, Vegetarian Friendly, Vegan Options  Brunch, Lunch, Dinner.  Delivery, Takeout, Seating, Wheelchair Accessible, Serves Alcohol, Accepts Mastercard, Accepts Visa, Free Wifi.",
+      "Location": "19 Abbeygate Street Upper | Upper Abbeygate Street, Galway H91 N2P1, Ireland"
+    },
+    {
+      "Name": "DaPaulino'sRistoranteItaliano",
+      "Description": "We are a new Italian restaurant and pizzeria in the central of Galway City. As a family run restaurant, the atmosphere is relaxed, welcoming and family friendly, just like our food! Everything is homemade at Da Paulino's Ristorante Italiano.",
+      "Location": "40 Abbeygate Street Upper | Galway City, Ireland, Galway 000, Ireland"
+    }
+  ],
+  "GalwayPlaces":[
+    {
+      "Name": "GalwayCathedral",
+      "Description":"Magnificent cathedral near the centre of Galway, it has a feeling of peace and calm in the busy city.",
+      "Location":" University and Gaol Rds. | Cathedral Square, Galway, Ireland"
+    },
+    {
+      "Name": "QuayStreet",
+      "Description":"A walk along Quay Street is a taste of olde Ireland that gives you everything from street vendors, to soup shops and bakeries, to clothing stores, to real Irish Pubs or tea rooms if you prefer.",
+      "Location":"Galway City Centre, Galway, Galway, Ireland"
+    },
+    {
+      "Name": "NationalUniversityofIreland-Galway",
+      "Description":"This campus is worth a walk around and it's only 5 minutes walk from the centre of the city. The old building blend in lovely with the new and they are all worth seeing.",
+      "Location":"University Road, Galway, Ireland"
+    },
+    {
+      "Name": "TheSpanishArch",
+      "Description":"If you are interested in ancient or medieval history this might give you a slight idea what Galway looked like at that times.",
+      "Location":"Spanish Arch, Galway, Ireland"
+    }
+  ],
+  "GalwayThings": [
+    {
+      "Name": "WildAtlanticWayDayTours",
+      "Description": "Wild Atlantic Way Day Tours - offer daily guided sightseeing tours to the Aran Islands, Cliffs of Moher and Connemara. Our fully trained local driver guides will take you on a scenic journey along the Wild Atlantic Way.",
+      "Location": "Merchant's Road, Galway, Ireland"
+    },
+    {
+      "Name": "ConnemaraPubTours",
+      "Description": "Connemara Pub Tours offers visitors to Galway an opportunity to visit the beautiful scenic Connemara region while stopping off and sampling 5 of the best pubs in the area.",
+      "Location": "Opposite the National University of Ireland, Galway, Ireland"
+    },
+    {
+      "Name": "CorribPrincessRiverCruise",
+      "Description": "Scenic 90 minute cruises daily May to September 12.30pm and 2.30pm, extra sailing July & August 4.30pm. Available for groups and private charters April to end of October.Live commentary on all the points of interest along the way.",
+      "Location": "Galway, Ireland"
+    },
+    {
+      "Name": "SegwayAdventureToursofGalway",
+      "Description": "Join us on a fun-filled guided Segway Adventures Tour of Galway City on board one of our hi-tech Segway Personal Transporter. This is undoubtably the most exciting, fun and coolest ways to explore this historic and vibrant city",
+      "Location": "The Garden of Jurys Inn Hotel | The Latin Quarter, Galway, Ireland"
+    }
+  ]
+}

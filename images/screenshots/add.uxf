@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>7</zoom_level>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>441</x>
+      <y>413</y>
+      <w>112</w>
+      <h>182</h>
+    </coordinates>
+    <panel_attributes>WaterfordCounty
+--
+-private String h
+-private String r
+-private String p
+-private String t
+-private String n
+-private String d
+-private String l
+-private String s
+--
++public String getHotels()
++public String getRestaurants()
++String getPlaceOfInterests() 
++String getThingToDo()
++public String getNames()
++public String getDescriptions() 
++public String getLocations() 
++public String getSynopsis()
++public String getH()
++public String getR()
++public String getP()
++public String getT()
++public String getN()
++public String getD()
++public String getL()
++public String getS()
++public String setD()
++public String getL()
++public String getS()
++public void getInfo()
++public void setDetailHotel(int index)
++public void setDetailR(int index)
++public void setDetailP(int index)
++public void setDetailT(int index)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>441</x>
+      <y>0</y>
+      <w>112</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>County
+--
+
+--
+/getHotels()/
+/getRestaurants()/
+/getPlacesOfInterests()/
+/getThingsToDo()/
+/getNames()/
+/getDescriptions()/
+/getLocations()/
+/getInfo()/
+/setDetailHotel(int index)/
+/setDetailR(int index)/
+/setDetailP(int index)/
+/setDetailT(int index)/
+/getSynopsis()/
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>441</x>
+      <y>189</y>
+      <w>112</w>
+      <h>168</h>
+    </coordinates>
+    <panel_attributes>Information
+--
+-String synopsis
+-String hotelName
+-String restaurants
+-String restaurants
+-String things
+-String name
+-String description
+-String location
+--
++public Information(String hotelName,String restaurants,String places,String things)
++public Information(String synopsis)
++public Information(String name,String description,String location)
++public String getHotelName()
++public String getRestaurant()
++String getPlace() 
++String getThing()
++public String getName()
++public String getDescription() 
++public String getLocation() 
++public String getSynop()
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>476</x>
+      <y>126</y>
+      <w>34</w>
+      <h>76</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>21;63;21;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>476</x>
+      <y>336</y>
+      <w>34</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>21;77;21;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>742</x>
+      <y>420</y>
+      <w>112</w>
+      <h>175</h>
+    </coordinates>
+    <panel_attributes>ShowWaterfordCounty
+--
+-private County dublinCounty = null
+-private JPanel panelCenter
+-private JPanel panelEast
+-private JPanel panelSouth
+-private JPanel panelWest
+-private JLabel la1
+-private JLabel la2
+-private JLabel la3
+-private ImageIcon head
+-private int size
+-private String out
+-private String syn
+-private DefaultListModel&lt;String&gt; def
+-private String name = "images/dublinMap.png"
+-private int count =0
+
+-private JList t
+-private JButton JButton west1,west2,west3,west4,east1,east2,east3,east4,mainMenu
+
+--
++public ShowDublinInfo()
++public JPanel buildCenterPanel()
++public JPanel buildPanel() 
++public JPanel buildCenterPanel()
++public JPanel buildEastPanel()
++public JPanel buildSouthPanel()
++public void getResults(String s)
++public void valueChanged(ListSelectionEvent e)
++public void actionPerformed(ActionEvent e)
++public void listDataHotels(int index)
++public void listDataRes(int index)
++public void listDataPlace(int index)
++public void listDataThings(int index)
++public void reset()
++public String getR()
++public String getP()
++public String getT()
++public String getN()
++public String getD()
++public String getL()
++public String getS()
++public String setD()
++public String getL()
++public String getS()
++public void getInfo()
++public void setDetailHotel(int index)
++public void setDetailR(int index)
++public void setDetailP(int index)
++public void setDetailT(int index)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>532</x>
+      <y>476</y>
+      <w>223</w>
+      <h>34</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>210;21;21;21</additional_attributes>
+  </element>
+</diagram>
