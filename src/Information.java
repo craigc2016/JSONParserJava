@@ -15,7 +15,7 @@ public class Information {//start class
 		this.places = places;
 		this.things = things;
 	}
-	
+		
 	public Information(String synopsis){
 		this.synopsis = synopsis;
 	}
